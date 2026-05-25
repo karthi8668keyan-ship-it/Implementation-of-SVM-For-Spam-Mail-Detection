@@ -21,11 +21,10 @@ To write a program to implement the SVM For Spam Mail Detection.
 6.Predict test results, generate the confusion matrix, and display it using a heatmap.
 ## Program:
 ```
-/*
 Program to implement the SVM For Spam Mail Detection..
 Developed by: KARTHIKEYAN A
 RegisterNumber:  212225230131
-*/
+```
 ```
 import pandas as pd
 from sklearn.model_selection import train_test_split
